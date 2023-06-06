@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flights>
+    <flight>
+        <id>1</id>
+        <origin>Madrid</origin>
+        <destination>Santiago de Compostela</destination>
+        <date>2022-06-01</date>
+        <price>100</price>
+    </flight>
+    <flight>
+        <id>2</id>
+        <origin>Barcelona</origin>
+        <destination>Santiago de Compostela</destination>
+        <date>2022-06-01</date>
+        <price>80</price>
+    </flight>
+</flights>
+
